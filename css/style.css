@@ -235,7 +235,6 @@ a {
   margin-bottom: 10px;
 }
 .yoga-template .best-class-club .best-class-club-desc ul li:before {
-  content:"\f0e7";
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   display: inline-block;
@@ -247,8 +246,8 @@ a {
 }
 .yoga-template .best-class-club .best-class-club-img {
 	background-image: url(../img/us1.png);
-    background-size: cover;
-    background-position: center right;
+    background-size: auto;
+    background-position: center;
     background-repeat: no-repeat;
 }
 /*Advantages*/
