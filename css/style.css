@@ -204,11 +204,17 @@ a {
  	height: auto;
 }
 /*Class Yoga Club*/
+.grey-divider {
+	border-top: 1px solid #ccc; /* Color gris */
+	margin-top: 30px; /* Espacio superior */
+	margin-bottom: 30px; /* Espacio inferior */
+  }
+
 .yoga-template .best-class-club .detail-col-club{
 	padding-bottom: 10px;
 }
 .yoga-template .best-class-club .best-class-club-desc {
-	background-color: #f5f5f5;
+	background-color: #ffffff;
 	padding: 60px 15px;
 }
 .yoga-template .best-class-club .best-class-club-desc .club-section-title {
@@ -262,7 +268,7 @@ a {
 }
 .yoga-template .advantages-section .advantages-detail a:hover .advantages-detail-title {
 	text-decoration: none;
-	color: #d85dd4;
+	color: #fe86d4;
 }
 .yoga-template .advantages-section .advantages-detail-title {
 	font-family: 'Josefin Sans', sans-serif;
